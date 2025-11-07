@@ -3,4 +3,4 @@ pandas==2.3.1
 numpy==2.3.2
 
 # Multi-Criteria Decision Analysis
-mcda==
+mcda==0.6.0
